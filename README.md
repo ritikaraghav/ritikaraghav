@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ritika</h1>
 <h3 align="center">A passionate engineering student from India</h3>
-<imp align="right" width="400" alt="gif" src="https://camo.githubusercontent.com/06fa7a9aa91a074222a5be8b70cf36b49f5c5021c518bac26263809d7ef4883c/68747470733a2f2f7374617274636f64696e672e636f2e696e2f77702d636f6e74656e742f75706c6f6164732f323032312f31322f636f64696e672d666f722d6b6964732e676966">
-- 🌱 I’m currently learning **Machine Learning**
+<img align="right" width="400" alt="gif" src="https://camo.githubusercontent.com/06fa7a9aa91a074222a5be8b70cf36b49f5c5021c518bac26263809d7ef4883c/68747470733a2f2f7374617274636f64696e672e636f2e696e2f77702d636f6e74656e742f75706c6f6164732f323032312f31322f636f64696e672d666f722d6b6964732e676966">
+- 🌱 I’m currently learning <b>"Machine Learning & Artificial Intelligence"</b>
 
-- 📫 How to reach me **raghavritika.official@gmail.com**
+- 📫 How to reach me <b>"raghavritika.official@gmail.com"</b>
 
 - ⚡ Fun fact **I think I am selectively extrovert.**
 
